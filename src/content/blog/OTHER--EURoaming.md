@@ -1,5 +1,5 @@
 ---
-title: The Hidden Gem of EU Roaming - Roaming Travel Guide
+title: The Hidden Gem of EU Roaming - TRUE TESTED REVIEW
 pubDate: 08/19/2024 12:00
 author: "Arya Sarukkai"
 tags:
@@ -14,6 +14,8 @@ layout: '../../layouts/BlogPost.astro'
 
 ![eSIM for Europe Travel](../../assets/big-3.jpg)
 
+## 🌟 Speedtests & Best Options Listed at Bottom
+
 ## Introduction to eSIMs for Europe
 
 Traveling to Europe requires reliable mobile connectivity, and eSIMs offer a convenient, cost-effective solution. Unlike traditional SIM cards, eSIMs allow you to activate a mobile data plan digitally without swapping physical cards. This is particularly useful for international travel, where switching between networks and countries is common.
@@ -24,7 +26,7 @@ In this guide, we explore the best eSIM options for staying connected in Europe,
 
 1. **Verizon**: Verizon's TravelPass is available at $10 per day, enabling you to use your existing domestic data, talk, and text plan in over 185 countries. Although convenient, this option can become costly for extended trips.
 
-2. **AT&T**: AT&T offers a similar International Day Pass at $10 per day, which provides the same services as your domestic plan across more than 200 countries. This pass is ideal for short trips but can add up over longer durations.
+2. **AT&T**: AT&T offers a similar International Day Pass at $12 per day, which provides the same services as your domestic plan across more than 200 countries. This pass is ideal for short trips but can add up over longer durations.
 
 3. **T-Mobile**: T-Mobile's Magenta and Magenta Max plans include free international data, though speeds are capped at 2G. For faster data, a high-speed pass can be purchased for $5 per day, making it a flexible yet potentially slower option.
 
@@ -49,7 +51,7 @@ To avoid high roaming costs, consider these eSIM providers that offer comprehens
 3. **O2 Mega eSIM**:
    - **Price**: $29 for 300GB of super-fast data.
    - **Coverage**: Available in 48 European countries.
-   - **Features**: This plan provides extensive 5G coverage with no fair usage policy, making it the ultimate option for travelers requiring large amounts of data without throttling. It also includes mobile hotspot capability at no extra cost.
+   - **Features**: This plan provides extensive 5G coverage with no fair usage policy, making it the ultimate option for travelers requiring large amounts of data without throttling. It also includes mobile hotspot capability at no extra cost. **Full 5G mmWave + C-Band Access through Europe**.
 
 ### Additional eSIM Providers
 
@@ -64,6 +66,24 @@ To avoid high roaming costs, consider these eSIM providers that offer comprehens
 For most travelers, the **O2 Travel eSIM** offers an excellent balance of data, coverage, and cost, especially for those visiting multiple countries within Europe. The **Vodafone Travel eSIM** is ideal for those needing reliable connectivity across Europe and beyond. For heavy data users, the **O2 Mega eSIM** provides unbeatable value with 300GB of data, ensuring you stay connected throughout your journey.
 
 These eSIMs provide the flexibility and reliability needed for a seamless travel experience across Europe, often outperforming traditional U.S. carrier roaming plans in both cost and convenience.
+
+ **Most Notably, the O2 Plans Provide Full 5G mmWave + C-Band Access through Europe, resulting in High-Speed Data wherever you go.  See test results below:**
+
+#### O2 Performance in Monaco
+
+[![Speed Test Result](https://www.speedtest.net/result/i/6167845891.png)](https://www.speedtest.net/result/i/6167845891)
+
+Test above is MonacoTelecom on O2.
+
+#### O2 Performance in France
+
+[![Speed Test Result](https://www.speedtest.net/result/i/6166598032.png)](https://www.speedtest.net/result/i/6166598032)
+
+Test above is Bouygues 5G on O2.
+
+[![Speed Test Result](https://www.speedtest.net/result/i/6167586197.png)](https://www.speedtest.net/result/i/6167586197)
+
+Test above is on SFR 5G on O2.
 
 For more details and to purchase these eSIMs, visit:
 - [O2 Travel eSIM](https://www.esim.net/O2/Travel)
