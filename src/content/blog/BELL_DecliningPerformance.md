@@ -26,7 +26,7 @@ Once considered one of Canada’s leading mobile networks, Bell Canada has exper
 
 One of the most glaring issues plaguing Bell’s network is its poor upload speed performance. According to a recent [Opensignal report](https://www.opensignal.com), Bell's average upload speed was reported at just 10 Mbps, significantly behind Rogers, which has recently achieved upload speeds of 30 Mbps on average. This difference is substantial and directly impacts user experience, particularly for those who rely on stable and fast uploads for video conferencing, cloud storage, and live streaming.
 
-A real-world example of this disparity is illustrated in a speed test conducted using an AT&T SIM roaming on Rogers, which yielded impressive results of 1267.32 Mbps download and 97.86 Mbps upload. In stark contrast, a Bell SIM roaming on AT&T in the same location showed a dismal 2.52 Mbps download and 0.69 Mbps upload. This stark difference highlights the current performance gap between Bell and Rogers, especially in critical upload speeds:
+A real-world example of this disparity is illustrated in a speed test conducted using an AT&T SIM roaming on Rogers, which yielded impressive results of 1267.32 Mbps download and 97.86 Mbps upload. In stark contrast, a AT&T SIM roaming on Bell in the same location showed a dismal 2.52 Mbps download and 0.69 Mbps upload. This stark difference highlights the current performance gap between Bell and Rogers, especially in critical upload speeds:
 
 [![Speed Test Result](https://www.speedtest.net/result/i/5756320596.png)](https://www.speedtest.net/result/i/5756320596)  
 *Rogers (AT&T Roaming): 1267.32 Mbps download / 97.86 Mbps upload*
