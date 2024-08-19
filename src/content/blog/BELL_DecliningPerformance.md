@@ -40,10 +40,17 @@ These results underscore the challenges Bell is facing in maintaining competitiv
 
 Coverage consistency is another area where Bell is struggling. Despite the company’s claims of extensive 5G and LTE coverage, users have reported frequent drops to LTE, often finding the service to be almost unusable in certain residential areas. According to an analysis by [WhistleOut](https://www.whistleout.ca), Bell’s coverage, particularly in suburban and rural areas, is less reliable than that of Rogers. The disparity is not just in signal strength but in network stability, with Bell users frequently experiencing outages and inconsistent service.
 
-A particularly striking example of Bell’s coverage issues is evident in a speed test performed with an A1 eSIM roaming on Bell, where the results were shockingly low at 0.28 Mbps download and 0.13 Mbps upload:
+A particularly striking example of Bell’s coverage issues is evident in a speed test performed with on Bell in the heart of Toronto (location below the test), where the results were shockingly low at 0.94 Mbps download and 4.37 Mbps upload:
 
-[![Speed Test Result](https://www.speedtest.net/result/i/5752026422.png)](https://www.speedtest.net/result/i/5752026422)  
-*Bell (A1 eSIM roaming on Bell): 0.28 Mbps download / 0.13 Mbps upload*
+##### Speed Test Result
+
+[![Speed Test Result](https://www.speedtest.net/result/i/5731361386.png)](https://www.speedtest.net/result/i/5731361386)  
+*Bell (AT&T roaming on Bell): 0.94 Mbps download / 4.37 Mbps upload*
+
+
+##### Speed Test Location
+
+![Speed Test Location](https://i.imgur.com/efs1SOb.png)
 
 Umlaut, a telecom research firm, rated Bell’s network reliability below that of Rogers and Telus in its most recent evaluation. Bell’s score of 526 out of a possible 573 points, while still respectable, indicates a notable gap compared to Rogers’ 538 points. This gap reflects a broader trend of Bell lagging in network performance metrics, which include not just speed and coverage, but also latency and stability&#8203;:contentReference[oaicite:0]{index=0}.
 
